@@ -1,0 +1,29 @@
+.wrapper {
+    background-color: #22272e;
+    min-height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+img {
+    width: 100%;
+    border: 2px solid #555;
+    border-radius: 10px;
+}
+
+.type-fabric:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.navbar:hover {
+    cursor: pointer;
+    background-color: #6c757d;
+}
